@@ -3,6 +3,8 @@
 One `?` key overlay for every Herdr mod. It combines herdr-md's help (search, scrolling, keycaps, fade) and
 herdr-draw's (click outside to close, flags keys that keys.json gives to Herdr first).
 
+![Stage's ? overlay](docs/stage-help.png)
+
 ## Why it's copied, not imported
 
 Herdr won't load a module from outside a mod's own folder (`resolves outside the application directory`),
